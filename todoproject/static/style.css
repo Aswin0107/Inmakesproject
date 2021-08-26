@@ -1,0 +1,19 @@
+.banner{
+background-color:Wheat;
+width:110%;
+height:100px;
+margin-bottom:30px;
+}
+.banner-text{
+font-family:Papyrus;
+top:5%;
+left:30%;
+position:absolute;
+transform:transform;
+}
+h3{
+font-family:Lucida Handwriting;
+}
+body{
+background-color:LightGoldenrodYellow
+}
